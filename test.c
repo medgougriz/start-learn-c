@@ -15,5 +15,7 @@ int main(){
     printf("%f\n", pow(2, 2));
     printf("%d\n", 5*2);
     printf("%f\n", sqrt(36));
+    printf("%f\n", ceil(3.14));
+    printf("%f\n", floor(3.14));
     return 0;
 }
