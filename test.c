@@ -17,5 +17,9 @@ int main(){
     printf("%f\n", sqrt(36));
     printf("%f\n", ceil(3.14));
     printf("%f\n", floor(3.14));
+
+    // use constants
+    const char[] greeting = "Hello, World!";
+    printf("%s\n",greeting);
     return 0;
 }
